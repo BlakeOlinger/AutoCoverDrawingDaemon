@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AutoPrefabDaemon:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AutoPrefabDaemon_jar</output-path>
+    <root id="archive" name="AutoPrefabDaemon.jar">
+      <element id="module-output" name="AutoPrefabDaemon" />
+    </root>
+  </artifact>
+</component>
